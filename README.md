@@ -5,7 +5,7 @@
 ## What Will I Build?
 The Memory Game Project is all about demonstrating your mastery of HTML, CSS, and JavaScript. You’ll build a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a snazzy, well-designed, and feature-packed memory game!
 
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/589bb972_screen-shot-2017-02-07-at-3.03.15-pm/screen-shot-2017-02-07-at-3.03.15-pm.png)
+Click [this Button] (https://poblue.github.io/memory-game/)
 
 
 ## How It Works
@@ -20,6 +20,9 @@ The game board consists of sixteen cards arranged randomly in a grid. The deck i
 
 The game ends once all cards have been correctly matched.
 
+# How to play
+
+Click [this link](https://poblue.github.io/memory-game/)
 
 ## What Will I Learn?
 The memory game presents the first opportunity to fully combine HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll learn how best to combine them in a complex application. What's the ideal workflow? How many files do you need? Do you write the HTML first? The JavaScript?
